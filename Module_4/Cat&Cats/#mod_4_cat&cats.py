@@ -1,4 +1,4 @@
-#mod_4_cat&cats
+mod_4_cat&cats
 
 def get_cats_info(path):
     cats = []
